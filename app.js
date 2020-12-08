@@ -148,6 +148,7 @@
         }
       });
     }
+    //end
     
     // Computes score and returns a paragraph element to be displayed
     function displayScore() {
